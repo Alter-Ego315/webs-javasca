@@ -1,0 +1,6 @@
+{
+    "name": "libro1",
+    "framework": "vite",
+    "buildCommand": "vite build",
+    "outputDirectory": "dist"
+}
